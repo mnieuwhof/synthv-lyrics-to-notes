@@ -3,8 +3,10 @@ A Synthesizer V script to convert lyrics to notes
 
 This script creates random notes in a notegroup based on given lyrics.
 
-I think Synthesizer V should have this functionality out of the box but it hasn't
+I think Synthesizer V should have this functionality out of the box but it hasn't.
+
 I'm not good a LUA, this was my first attempt so don't bomb me with requests.
+
 This is a public GIT so everyone with a Github account can make it a better script.
 
 The script does the following:
