@@ -22,4 +22,7 @@ I want the singing speed set to: Makes the notes longer, shorter or normal.
 Ok to create the notegroup.
 
 
-I did choose for notegroups because you can make different ones based on versers chorusses and other scales.
+I did choose for notegroups because you can make different ones based on verses, choruses and other scales.
+
+
+Enjoy!
