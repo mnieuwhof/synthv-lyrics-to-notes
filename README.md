@@ -2,6 +2,7 @@
 A Synthesizer V script to convert lyrics to notes
 
 This script creates random notes in a notegroup based on given lyrics.
+
 The script does the following:
 
 ![dialog](https://github.com/user-attachments/assets/42d41cf8-b7dd-4c81-b2d9-de924e0dc96b)
