@@ -27,6 +27,9 @@ I want the singing speed set to: Makes the notes longer, shorter or normal.
 
 Ok to create the notegroup.
 
+NOTE: The new notegroup is not put on the time line automatically. You have to drag it from your library to the timeline:
+
+![addnotegroup](https://github.com/user-attachments/assets/05adb99e-2497-469c-8a21-d9cc2f4f334a)
 
 I did choose for notegroups because you can make different ones based on verses, choruses and other scales.
 
